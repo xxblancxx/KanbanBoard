@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MARTINLAPTOP</Machine>
+    <WindowsUser>martin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b29c1515-3f2d-4210-9607-a3a5a46a589c</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CBF0774EDB2A7070851B0CC119700FF47A416945DD0741B5ABFE3B18EB7191BD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b29c1515-3f2d-4210-9607-a3a5a46a589c_1.0.0.0_neutral__a1691p6wrfp9c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b29c1515-3f2d-4210-9607-a3a5a46a589c_a1691p6wrfp9c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b29c1515-3f2d-4210-9607-a3a5a46a589c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=martin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-29T09:43:29.685</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\bin\Debug\KanbanBoard_2.Windows.exe">
+      <PackagePath>KanbanBoard_2.Windows.exe</PackagePath>
+      <Modified>2015-09-29T09:56:16.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\Assets\Post-it-note-transparent.png">
+      <PackagePath>Assets\Post-it-note-transparent.png</PackagePath>
+      <Modified>2015-09-29T09:24:07.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\bin\Debug\KanbanBoard_2.Windows.xr.xml">
+      <PackagePath>KanbanBoard_2.Windows.xr.xml</PackagePath>
+      <Modified>2015-09-29T09:56:15.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-29T09:43:28.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-29T09:56:16.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\martin\documents\visual studio 2015\Projects\KanbanBoard_2\KanbanBoard_2\KanbanBoard_2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-29T09:43:29.440</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
